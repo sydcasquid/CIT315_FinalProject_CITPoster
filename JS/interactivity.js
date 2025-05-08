@@ -188,19 +188,7 @@ let score = 0;
 
 });
 
-// let FandomQuestionResponse = [
-//   "Apply technology to intervene in problems and improve the human or business condition. See here for more information",
-//   "Yes! You got it right!",
-//   "I see where you're going with this, but it's not right.",
-// ];
-
-//  // Fandom name group
-//  document.querySelectorAll(".fandomName").forEach((e) => {
-//   addEventListener("click", (e) => {
-//     let fandomNumber = e.target.attributes.choice.value;
-//     document.querySelector("#correctFandomName").textContent = FandomQuestionResponse[fandomNumber];
-//   });
-// });
+//Major information section
 
 let chosenMajorResponse = [
   {
